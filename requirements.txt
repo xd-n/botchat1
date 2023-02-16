@@ -7,4 +7,4 @@ dash_html_components
 dash_core_components
 dash-auth
 pathlib
-plotly.graph_objs
+
